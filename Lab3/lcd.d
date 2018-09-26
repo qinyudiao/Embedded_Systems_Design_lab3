@@ -1,0 +1,9 @@
+.\lcd.o: LCD.c
+.\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\lcd.o: tm4c123gh6pm.h
+.\lcd.o: PLL.h
+.\lcd.o: SysTick.h
+.\lcd.o: ST7735.h
+.\lcd.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h
+.\lcd.o: LCD.h
