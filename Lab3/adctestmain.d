@@ -1,0 +1,1 @@
+.\adctestmain.o: ADCTestMain.c
